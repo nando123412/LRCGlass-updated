@@ -1,0 +1,91 @@
+{
+  "entities": {
+    "Contribution": {
+      "title": "Community Lyric Contribution",
+      "description": "User submitted synchronized or plain lyrics with community moderation and priority attribution",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "trackCode": { "type": "string", "maxLength": 128 },
+        "trackTitle": { "type": "string", "maxLength": 200 },
+        "artistName": { "type": "string", "maxLength": 200 },
+        "albumName": { "type": "string", "maxLength": 200 },
+        "format": { "type": "string", "enum": ["plain", "lrc", "enhanced-lrc", "ttml"] },
+        "content": { "type": "string", "maxLength": 50000 },
+        "language": { "type": "string", "maxLength": 10 },
+        "hasWordSync": { "type": "boolean" },
+        "contributor": { "type": "string", "maxLength": 100 },
+        "authorUid": { "type": "string", "maxLength": 128 },
+        "version": { "type": "number" },
+        "status": { "type": "string", "enum": ["published", "pending"] },
+        "votes": { "type": "number" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "trackTitle", "artistName", "format", "content"]
+    },
+    "TrackAudio": {
+      "title": "Track Playback Audio Source",
+      "description": "User attached audio stream URL or uploaded playback source linked to a specific song",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "trackCode": { "type": "string", "maxLength": 128 },
+        "trackTitle": { "type": "string", "maxLength": 200 },
+        "artistName": { "type": "string", "maxLength": 200 },
+        "audioUrl": { "type": "string", "maxLength": 2000 },
+        "audioType": { "type": "string", "maxLength": 50 },
+        "addedBy": { "type": "string", "maxLength": 100 },
+        "authorUid": { "type": "string", "maxLength": 128 },
+        "durationSec": { "type": "number" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "trackCode", "audioUrl"]
+    },
+    "ImageFeedback": {
+      "title": "Image Feedback",
+      "description": "User ratings on fallback artist and album images",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 256 },
+        "artistName": { "type": "string", "maxLength": 200 },
+        "imageUrl": { "type": "string", "maxLength": 1000 },
+        "likes": { "type": "number" },
+        "dislikes": { "type": "number" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "artistName", "imageUrl"]
+    },
+    "User": {
+      "title": "User Profile",
+      "description": "Registered user profile and preferences",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "maxLength": 128 },
+        "displayName": { "type": "string", "maxLength": 100 },
+        "email": { "type": "string", "maxLength": 254 },
+        "photoURL": { "type": "string", "maxLength": 1000 },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid"]
+    }
+  },
+  "firestore": {
+    "/contributions/{contributionId}": {
+      "schema": { "$ref": "#/entities/Contribution" },
+      "description": "Community synchronized lyrics and user contributions"
+    },
+    "/track_audios/{audioId}": {
+      "schema": { "$ref": "#/entities/TrackAudio" },
+      "description": "User-added audio files and playback stream URLs"
+    },
+    "/image_feedback/{feedbackId}": {
+      "schema": { "$ref": "#/entities/ImageFeedback" },
+      "description": "Likes and dislikes on artist fallback artwork"
+    },
+    "/users/{userId}": {
+      "schema": { "$ref": "#/entities/User" },
+      "description": "Public user profiles"
+    }
+  }
+}

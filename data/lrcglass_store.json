@@ -1,0 +1,561 @@
+{
+  "entities": {},
+  "metadataCache": {
+    "headliner:artist:alex warren": {
+      "code": "headliner:artist:alex warren",
+      "data": {
+        "artistName": "Alex Warren",
+        "appleMusicUrl": "https://music.apple.com/nl/artist/alex-warren/1572671688",
+        "headerVideo": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr598_sdr_3840x2160-.mp4",
+        "headerVideoMp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr598_sdr_3840x2160-.mp4",
+        "variants": [
+          {
+            "width": 3840,
+            "height": 2160,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 19651074,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr598_sdr_3840x2160.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr598_sdr_3840x2160-.mp4"
+          },
+          {
+            "width": 3840,
+            "height": 2160,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 11465092,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr597_sdr_3840x2160.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr597_sdr_3840x2160-.mp4"
+          },
+          {
+            "width": 3840,
+            "height": 2160,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 6596007,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr593_sdr_3840x2160.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr593_sdr_3840x2160-.mp4"
+          },
+          {
+            "width": 2560,
+            "height": 1440,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 11688097,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr591_sdr_2560x1440.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr591_sdr_2560x1440-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 9615903,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr290_sdr_1920x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr290_sdr_1920x1080-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 6828101,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr585_sdr_1920x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr585_sdr_1920x1080-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 6371280,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr280_sdr_1920x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr280_sdr_1920x1080-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 4832674,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr580_sdr_1920x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr580_sdr_1920x1080-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 4790902,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr270_sdr_1920x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr270_sdr_1920x1080-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 3821095,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr570_sdr_1920x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr570_sdr_1920x1080-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 3556161,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr265_sdr_1920x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr265_sdr_1920x1080-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 2712545,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr565_sdr_1920x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr565_sdr_1920x1080-.mp4"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 3725122,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr260_sdr_1280x720.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr260_sdr_1280x720-.mp4"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 2732675,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr560_sdr_1280x720.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr560_sdr_1280x720-.mp4"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 2695975,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr250_sdr_1280x720.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr250_sdr_1280x720-.mp4"
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 2120817,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr550_sdr_1280x720.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr550_sdr_1280x720-.mp4"
+          },
+          {
+            "width": 1024,
+            "height": 576,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 2052123,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr240_sdr_1024x576.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr240_sdr_1024x576-.mp4"
+          },
+          {
+            "width": 1024,
+            "height": 576,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 1497318,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr540_sdr_1024x576.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr540_sdr_1024x576-.mp4"
+          },
+          {
+            "width": 864,
+            "height": 486,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 1437268,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr230_sdr_864x486.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr230_sdr_864x486-.mp4"
+          },
+          {
+            "width": 864,
+            "height": 486,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 1050302,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr530_sdr_864x486.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr530_sdr_864x486-.mp4"
+          },
+          {
+            "width": 768,
+            "height": 432,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 1022145,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr220_sdr_768x432.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr220_sdr_768x432-.mp4"
+          },
+          {
+            "width": 768,
+            "height": 432,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 778110,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr520_sdr_768x432.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr520_sdr_768x432-.mp4"
+          },
+          {
+            "width": 672,
+            "height": 378,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 712279,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr210_sdr_672x378.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr210_sdr_672x378-.mp4"
+          },
+          {
+            "width": 672,
+            "height": 378,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 540193,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr510_sdr_672x378.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr510_sdr_672x378-.mp4"
+          },
+          {
+            "width": 608,
+            "height": 342,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 469788,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr207_sdr_608x342.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr207_sdr_608x342-.mp4"
+          },
+          {
+            "width": 608,
+            "height": 342,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 365483,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr507_sdr_608x342.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr507_sdr_608x342-.mp4"
+          },
+          {
+            "width": 544,
+            "height": 306,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 329826,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr205_sdr_544x306.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr205_sdr_544x306-.mp4"
+          },
+          {
+            "width": 480,
+            "height": 270,
+            "is16x9": true,
+            "codec": "H.264",
+            "bandwidth": 235816,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr203_sdr_480x270.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr203_sdr_480x270-.mp4"
+          },
+          {
+            "width": 480,
+            "height": 270,
+            "is16x9": true,
+            "codec": "HEVC",
+            "bandwidth": 223587,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr505_sdr_480x270.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/83/d3/cd/83d3cd7b-6fe0-4b9a-0e07-05d64ee69cf2/P1453417239_Anull_video_gr505_sdr_480x270-.mp4"
+          },
+          {
+            "width": 2160,
+            "height": 2160,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 19845166,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr598_sdr_2160x2160.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr598_sdr_2160x2160-.mp4"
+          },
+          {
+            "width": 2160,
+            "height": 2160,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 11610656,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr597_sdr_2160x2160.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr597_sdr_2160x2160-.mp4"
+          },
+          {
+            "width": 2160,
+            "height": 2160,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 6838380,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr593_sdr_2160x2160.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr593_sdr_2160x2160-.mp4"
+          },
+          {
+            "width": 1920,
+            "height": 1920,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 11550169,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr591_sdr_1920x1920.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr591_sdr_1920x1920-.mp4"
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 9855052,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr290_sdr_1080x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr290_sdr_1080x1080-.mp4"
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 6856041,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr585_sdr_1080x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr585_sdr_1080x1080-.mp4"
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 6636925,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr280_sdr_1080x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr280_sdr_1080x1080-.mp4"
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 4998439,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr270_sdr_1080x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr270_sdr_1080x1080-.mp4"
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 4833325,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr580_sdr_1080x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr580_sdr_1080x1080-.mp4"
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 3838152,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr570_sdr_1080x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr570_sdr_1080x1080-.mp4"
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 3738391,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr265_sdr_1080x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr265_sdr_1080x1080-.mp4"
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 2736111,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr565_sdr_1080x1080.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr565_sdr_1080x1080-.mp4"
+          },
+          {
+            "width": 960,
+            "height": 960,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 3755963,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr260_sdr_960x960.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr260_sdr_960x960-.mp4"
+          },
+          {
+            "width": 960,
+            "height": 960,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 2728322,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr560_sdr_960x960.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr560_sdr_960x960-.mp4"
+          },
+          {
+            "width": 960,
+            "height": 960,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 2728315,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr250_sdr_960x960.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr250_sdr_960x960-.mp4"
+          },
+          {
+            "width": 960,
+            "height": 960,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 2133719,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr550_sdr_960x960.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr550_sdr_960x960-.mp4"
+          },
+          {
+            "width": 768,
+            "height": 768,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 2078252,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr240_sdr_768x768.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr240_sdr_768x768-.mp4"
+          },
+          {
+            "width": 768,
+            "height": 768,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 1486998,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr540_sdr_768x768.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr540_sdr_768x768-.mp4"
+          },
+          {
+            "width": 486,
+            "height": 486,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 1501181,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr230_sdr_486x486.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr230_sdr_486x486-.mp4"
+          },
+          {
+            "width": 486,
+            "height": 486,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 1081280,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr220_sdr_486x486.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr220_sdr_486x486-.mp4"
+          },
+          {
+            "width": 486,
+            "height": 486,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 1020221,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr530_sdr_486x486.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr530_sdr_486x486-.mp4"
+          },
+          {
+            "width": 486,
+            "height": 486,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 763186,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr520_sdr_486x486.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr520_sdr_486x486-.mp4"
+          },
+          {
+            "width": 486,
+            "height": 486,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 727215,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr210_sdr_486x486.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr210_sdr_486x486-.mp4"
+          },
+          {
+            "width": 486,
+            "height": 486,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 536188,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr510_sdr_486x486.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr510_sdr_486x486-.mp4"
+          },
+          {
+            "width": 456,
+            "height": 456,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 477360,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr207_sdr_456x456.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr207_sdr_456x456-.mp4"
+          },
+          {
+            "width": 456,
+            "height": 456,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 367332,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr507_sdr_456x456.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr507_sdr_456x456-.mp4"
+          },
+          {
+            "width": 408,
+            "height": 408,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 333939,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr205_sdr_408x408.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr205_sdr_408x408-.mp4"
+          },
+          {
+            "width": 360,
+            "height": 360,
+            "is16x9": false,
+            "codec": "H.264",
+            "bandwidth": 237319,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr203_sdr_360x360.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr203_sdr_360x360-.mp4"
+          },
+          {
+            "width": 360,
+            "height": 360,
+            "is16x9": false,
+            "codec": "HEVC",
+            "bandwidth": 232244,
+            "hls": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr505_sdr_360x360.m3u8",
+            "mp4": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9d/e5/e9/9de5e951-9726-cfc8-c920-29fe4027470a/P1453404050_Anull_video_gr505_sdr_360x360-.mp4"
+          }
+        ],
+        "logoUrl": "https://headliner.nandoothjuuh.me/api/logo?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FFeatures%2Fv4%2Fab%2F61%2F8e%2Fab618eb9-296f-af9c-befb-3a3d23bbaaf8%2Fd63cf2f0-3747-4b83-aea0-55de485728a7.png%2F800x93bb.webp"
+      },
+      "cachedAt": 1794241897749,
+      "expiresAt": 1794328297749
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-seed-ordinary",
+      "trackCode": "sp:t:4iV5W9uYEdYUVa79Axb7Rh",
+      "trackTitle": "Ordinary",
+      "artistName": "Alex Warren",
+      "albumName": "You Will Be Alright Kid",
+      "format": "enhanced-lrc",
+      "content": "[ti:Ordinary]\n[ar:Alex Warren]\n[al:You Will Be Alright Kid]\n[00:08.50]<00:08.50>I <00:08.80>used <00:09.10>to <00:09.40>think <00:09.80>that <00:10.20>love <00:10.60>was <00:11.20>blind\n[00:12.80]<00:12.80>And <00:13.20>I <00:13.50>would <00:13.90>never <00:14.50>find <00:15.10>someone <00:15.80>like <00:16.40>you\n[00:17.20]<00:17.20>In <00:17.50>this <00:17.90>crowded <00:18.50>room <00:19.20>tonight\n[00:21.00]<00:21.00>You <00:21.40>make <00:21.80>the <00:22.20>ordinary <00:23.50>shine <00:24.20>so <00:25.00>bright",
+      "language": "en",
+      "hasWordSync": true,
+      "contributor": "LRCGlass Editor Team",
+      "version": 1,
+      "status": "published",
+      "votes": 14,
+      "createdAt": 1794154164351,
+      "updatedAt": 1794154164351
+    }
+  ],
+  "imageFeedbacks": {}
+}

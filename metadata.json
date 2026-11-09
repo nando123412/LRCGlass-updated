@@ -1,0 +1,6 @@
+{
+  "name": "LRCGlass",
+  "description": "Advanced music discovery, artist discographies, album tracklists, animated artwork, and Apple Music-style synchronized lyrics powered by Spotify, LRCLIB, LRC.red, and Headliner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
